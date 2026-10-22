@@ -4,7 +4,7 @@
 
 ## Download
 
-**[Go to Releases](https://github.com/smegill/rollsight-releases/releases)** to download the latest installer:
+**[Go to Releases](https://github.com/RollSight/rollsight-releases/releases)** to download the latest installer:
 
 - **macOS:** `RollSight-X.X.X-macos-intel.dmg` – Intel Macs (Apple Silicon runs under Rosetta)
 - **Windows:** `RollSight-Setup-X.X.X.exe`
@@ -15,4 +15,4 @@ Install the app, then use **Help → Install browser extension** inside RollSigh
 ## Links
 
 - [RollSight website](https://rollsight.com) (if applicable)
-- [Documentation / Support](https://github.com/smegill/rollsight-releases/discussions) (if enabled)
+- [Documentation / Support](https://github.com/RollSight/rollsight-releases/discussions) (if enabled)
